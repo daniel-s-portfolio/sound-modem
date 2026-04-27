@@ -1,10 +1,10 @@
 
 def main():
-    #read in dschust.wav
+    #read in message.wav
 
-    #decode dschust.wav
+    #decode message.wav
 
-    #save decoded text as dschust.txt
+    #save decoded text as message.txt
     pass
 
 if __name__ == "__main__":
